@@ -1,4 +1,4 @@
-# Eslint and style-guide configuration
+# Eslint and Styleguide configuration
   - `npm install eslint@4.x babel-eslint@8 eslint-plugin-react --save-dev`
   - `eslint --init`
   - Configuration: 
